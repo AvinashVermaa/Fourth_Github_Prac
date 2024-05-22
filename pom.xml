@@ -13,6 +13,7 @@
       <artifactId>junit</artifactId>
       <version>3.8.2</version>
       <version>Avinash's Version</version>
+      <![CDATA[ ssjsshsh]]>
       <scope>test</scope>
     </dependency>
   </dependencies>
